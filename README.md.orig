@@ -1,0 +1,11 @@
+# Git-Example
+A repository made for Git Tutorial
+
+<<<<<<< HEAD
+Development-branch changes to make.
+
+Lets learn git basics togeter with new development changes..
+=======
+Lets learn git basics together.
+Now lets experiment something new for a new experimental-branch.
+>>>>>>> experimental-test
