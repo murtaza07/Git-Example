@@ -1,4 +1,6 @@
 # Git-Example
 A repository made for Git Tutorial
 
-Lets learn git basics together.
+Development-branch changes to make.
+
+Lets learn git basics togeter with new development changes..
