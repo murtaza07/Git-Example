@@ -1,6 +1,4 @@
 # Git-Example
 A repository made for Git Tutorial
 
-Development-branch changes to make.
-
-Lets learn git basics togeter with new development changes..
+Now lets experiment something new for a new experimental-branch.Development-branch changes to make.
